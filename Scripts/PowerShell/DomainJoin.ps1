@@ -1,4 +1,4 @@
-﻿Set-DnsClientServerAddress -InterfaceAlias 'Ethernet' -ServerAddresses 10.1.4
+﻿Set-DnsClientServerAddress -InterfaceAlias 'Ethernet' -ServerAddresses 10.1.0.4
 
 $domain='oftp.local'
 $userName='oftp\lekkersap'
